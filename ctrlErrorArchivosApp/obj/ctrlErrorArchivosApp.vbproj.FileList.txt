@@ -1,0 +1,10 @@
+bin\Debug\ctrlErrorArchivosApp.exe
+bin\Debug\ctrlErrorArchivosApp.pdb
+bin\Debug\ctrlErrorArchivosApp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ctrlErrorArchivosApp.Form1.resources
+obj\Debug\ctrlErrorArchivosApp.Resources.resources
+obj\Debug\ctrlErrorArchivosApp.vbproj.GenerateResource.Cache
+obj\Debug\ctrlErrorArchivosApp.exe
+obj\Debug\ctrlErrorArchivosApp.xml
+obj\Debug\ctrlErrorArchivosApp.pdb
